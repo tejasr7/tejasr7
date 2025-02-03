@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tejas Ranveer
-- 👀 I’m interested in Programming, Dancing
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning React Native, MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tejasranveer01@gmail.com 
